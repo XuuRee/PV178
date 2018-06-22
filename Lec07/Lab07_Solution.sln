@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXml_02", "LinqToXml\LinqToXml_02.csproj", "{80690F6C-D7B7-4021-8AE3-3929612795D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesAndFolders_01", "FilesAndFolders\FilesAndFolders_01.csproj", "{4E3D6177-F926-4E34-99D4-4A1BE5212E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes_03", "Attributes\Attributes_03.csproj", "{AB303679-244F-4624-9868-8D5988E785CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80690F6C-D7B7-4021-8AE3-3929612795D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80690F6C-D7B7-4021-8AE3-3929612795D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80690F6C-D7B7-4021-8AE3-3929612795D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80690F6C-D7B7-4021-8AE3-3929612795D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3D6177-F926-4E34-99D4-4A1BE5212E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3D6177-F926-4E34-99D4-4A1BE5212E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3D6177-F926-4E34-99D4-4A1BE5212E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3D6177-F926-4E34-99D4-4A1BE5212E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB303679-244F-4624-9868-8D5988E785CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB303679-244F-4624-9868-8D5988E785CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB303679-244F-4624-9868-8D5988E785CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB303679-244F-4624-9868-8D5988E785CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

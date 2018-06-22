@@ -1,0 +1,7 @@
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\bin\Debug\TypesAndConversions_02.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\bin\Debug\TypesAndConversions_02.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\bin\Debug\TypesAndConversions_02.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\obj\Debug\TypesAndConversions_01.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\obj\Debug\TypesAndConversions_01.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\obj\Debug\TypesAndConversions_02.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\TypesAndConversions_03\obj\Debug\TypesAndConversions_02.pdb

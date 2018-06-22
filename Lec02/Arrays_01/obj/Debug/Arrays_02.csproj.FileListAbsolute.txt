@@ -1,0 +1,7 @@
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\bin\Debug\Arrays_03.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\bin\Debug\Arrays_03.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\bin\Debug\Arrays_03.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\obj\Debug\Arrays_02.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\obj\Debug\Arrays_02.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\obj\Debug\Arrays_03.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Cvika\3. tyden\Lab02_Solution\Arrays_01\obj\Debug\Arrays_03.pdb

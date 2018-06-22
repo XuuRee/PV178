@@ -1,0 +1,7 @@
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\bin\Debug\Threads.exe.config
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\bin\Debug\Threads.exe
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\bin\Debug\Threads.pdb
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\obj\Debug\Threads_01.csprojResolveAssemblyReference.cache
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\obj\Debug\Threads_01.csproj.CoreCompileInputs.cache
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\obj\Debug\Threads.exe
+C:\Users\Filip_000\Desktop\Actual Semester\PV178\Lec09_Lec10\Solution\Threads\obj\Debug\Threads.pdb

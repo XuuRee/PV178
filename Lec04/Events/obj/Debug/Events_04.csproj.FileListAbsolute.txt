@@ -1,0 +1,7 @@
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\bin\Debug\cv04.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\bin\Debug\cv04.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\bin\Debug\cv04.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\obj\Debug\Events_04.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\obj\Debug\Events_04.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\obj\Debug\cv04.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\Events\obj\Debug\cv04.pdb

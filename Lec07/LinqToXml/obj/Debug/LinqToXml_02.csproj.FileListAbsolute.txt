@@ -1,0 +1,7 @@
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\bin\Debug\LinqToXml.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\bin\Debug\LinqToXml.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\bin\Debug\LinqToXml.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\obj\Debug\LinqToXml_02.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\obj\Debug\LinqToXml_02.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\obj\Debug\LinqToXml.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\LinqToXml\obj\Debug\LinqToXml.pdb

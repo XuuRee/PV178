@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+      CSFD - percentage rating (x/100)
+      IMDB - index number out of 10 (x/10)
+-->
+
+<Root>
+  <Source>CSFD</Source>
+  <Movie MovieName="Inglourious Basterds" >
+    <Rating>
+      <Source>CSFD</Source>
+      <Score>88</Score>
+    </Rating>
+    <Rating>
+      <Source>IMDB</Source>
+      <Score>8.3</Score>
+    </Rating>
+  </Movie>
+  <Movie MovieName="Django Unchained" >
+    <Rating>
+      <Source>CSFD</Source>
+      <Score>88</Score>
+    </Rating>
+    <Rating>
+      <Source>IMDB</Source>
+      <Score>8.5</Score>
+    </Rating>
+  </Movie> 
+  <Movie MovieName="Inception" >
+    <Rating>
+      <Source>CSFD</Source>
+      <Score>89</Score>
+    </Rating>
+    <Rating>
+      <Source>IMDB</Source>
+      <Score>8.8</Score>
+    </Rating>
+  </Movie>
+</Root>

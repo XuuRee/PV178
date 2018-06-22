@@ -1,0 +1,11 @@
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\bin\Debug\FilesAndFolders.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\bin\Debug\FilesAndFolders.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\bin\Debug\FilesAndFolders.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\bin\Debug\LinqToXml.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\bin\Debug\LinqToXml.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\bin\Debug\LinqToXml.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\obj\Debug\FilesAndFolders_01.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\obj\Debug\FilesAndFolders_01.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\obj\Debug\FilesAndFolders_01.csproj.CopyComplete
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\obj\Debug\FilesAndFolders.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab07\Lab07_Solution\FilesAndFolders\obj\Debug\FilesAndFolders.pdb

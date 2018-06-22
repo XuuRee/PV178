@@ -1,0 +1,14 @@
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\bin\Debug\AnonymousLambdaDelegate.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\bin\Debug\AnonymousLambdaDelegate.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\bin\Debug\AnonymousLambdaDelegate.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate_03.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate_03.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\PV178 oficiální repo\PV178\Labs\Lab04\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\bin\Debug\AnonymousLambdaDelegate.exe.config
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\bin\Debug\AnonymousLambdaDelegate.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\bin\Debug\AnonymousLambdaDelegate.pdb
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate_03.csprojResolveAssemblyReference.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate_03.csproj.CoreCompileInputs.cache
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate.exe
+C:\Users\behra\Documents\Škola\4. semestr\Vyuka PV178\Moje cvika\5. tyden\Lab04_Solution\AnonymousLambdaDelegate\obj\Debug\AnonymousLambdaDelegate.pdb

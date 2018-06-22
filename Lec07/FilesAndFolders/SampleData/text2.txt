@@ -1,0 +1,1 @@
+Lets put some text into text4.txt.
